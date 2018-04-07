@@ -36,4 +36,3 @@ DF=DF[1:ctr,]
 DF=DF[Indicator,]
 View(DF)
 sort(table(DF$Year))
-DF[215,]
